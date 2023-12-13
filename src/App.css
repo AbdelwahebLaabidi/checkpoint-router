@@ -1,0 +1,38 @@
+.lol{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.pop{
+  display: flex;
+  align-items: center;
+}
+
+.top{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 45px;
+  margin-right: 45px;  
+}
+
+.kok{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 40%;
+  margin-top: 70px;
+  margin-right: 40%;
+}
+
+.sol{
+  height: 650px;
+}
+.non{
+  display: flex;
+  justify-content: space-between;
+  margin: 60px;
+  align-items: center;
+}
+
